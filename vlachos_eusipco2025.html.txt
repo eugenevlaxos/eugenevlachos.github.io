@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Neural Architecture Search and Knowledge Distillation for Semantic Image Segmentation on Big Wildfire Datasets</title>
+
+<!-- Google Scholar Metadata -->
+<meta name="citation_title" content="Neural Architecture Search and Knowledge Distillation for Semantic Image Segmentation on Big Wildfire Datasets">
+<meta name="citation_author" content="Evgenios Vlachos">
+<meta name="citation_author" content="Christos Papaioannidis">
+<meta name="citation_author" content="Ioannis Pitas">
+<meta name="citation_conference_title" content="European Signal Processing Conference (EUSIPCO 2025)">
+<meta name="citation_publication_date" content="2025">
+<meta name="citation_firstpage" content="750">
+<meta name="citation_lastpage" content="755">
+<meta name="citation_publisher" content="EURASIP">
+<meta name="citation_pdf_url" content="https://eusipco2025.org/wp-content/uploads/pdfs/0000750.pdf">
+</head>
+
+<body>
+<h1>Neural Architecture Search and Knowledge Distillation for Semantic Image Segmentation on Big Wildfire Datasets</h1>
+<p><strong>Authors:</strong> Evgenios Vlachos, Christos Papaioannidis, Ioannis Pitas</p>
+<p><strong>Conference:</strong> European Signal Processing Conference (EUSIPCO 2025)</p>
+<p><strong>Publisher:</strong> EURASIP</p>
+<p><a href="https://eusipco2025.org/wp-content/uploads/pdfs/0000750.pdf">📄 Download PDF</a></p>
+</body>
+</html>
